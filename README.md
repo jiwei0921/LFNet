@@ -1,5 +1,8 @@
 # LFNet: A Novel Light-Field Fusion Network for Salient Object Detection
-This repository contains the code of the paper:
+This repository contains our code, dataset and PR curves mentioned in the paper: 
+
+The PR curves:
+
 
 The pre-train model and [checkpoint](https://pan.baidu.com/s/1OhLXzuIsPRzRSnW-57m-Ng) can be download at the project page.
 
