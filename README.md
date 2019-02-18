@@ -2,7 +2,7 @@
 This repository contains our code, dataset and PR curves mentioned in the paper: 
 
 The PR curves:
-![PR curves)[https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field/blob/master/PR_curve.jpg]
+![PR curves](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field/blob/master/PR_curve.jpg)
 
 The pre-train model and [checkpoint](https://pan.baidu.com/s/1OhLXzuIsPRzRSnW-57m-Ng) can be download at the project page.
 
