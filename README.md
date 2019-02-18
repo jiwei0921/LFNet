@@ -10,4 +10,4 @@ https://pan.baidu.com/s/15SbsXlVFPqegdJ1TDLGZow
 The light-field saliency dataset can be download at this link: https://pan.baidu.com/s/1AidKKahG0U6ZkdOsjxWpgg
 
 If you want to download them, please email me and explain your purpose. 
-E-mail: 773862177@qq.com
+E-mail: weiji.dlut@gmail.com
