@@ -1,4 +1,4 @@
-# LFNet: A Novel Light-Field Fusion Network for Salient Object Detection
+# LFNet: Light-Field Fusion Network for Salient Object Detection
 This repository contains our code, dataset and PR curves mentioned in the paper: 
 
 ![PR curves](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field/blob/master/PR_curve.jpg)
