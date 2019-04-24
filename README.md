@@ -14,4 +14,4 @@ The light-field saliency dataset can be download at this link: https://pan.baidu
 If you want to download them, please email me and explain your purpose. 
 E-mail: weiji.dlut@gmail.com
 
-**In addition, we summarize all the SOD methods, datasets and evaluation metrics. If you are interested, please click [here](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)**
+**In addition, we summarize all the SOD methods, datasets and evaluation metrics. If you are interested, please click [here](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)**    
